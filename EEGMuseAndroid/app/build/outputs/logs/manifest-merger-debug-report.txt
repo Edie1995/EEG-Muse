@@ -1,0 +1,500 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\82fe4c6312830ee6592fa638591b0ebf\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\3068caa719d2d9626b5a0850766fd0b2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\520687876c1c1ccd8d7bbf88f04d408e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\48ba0d86252255ca4452d6a89639ab03\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\c0710be68a83c3a98682a0c3f74c7adb\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4c8ca25a39ee0a0538aaa1b3b97b2457\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\bc798fa080e1fa46461ca90f31de159e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1aebea4a733648701bf1b48d9d2a71f9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e57d8c07152a703f8758438237b0ec0c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\79d1ecd5137763ba510782d0a8ea8cab\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1518169f983953057c95cc427afee05c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\38cd8c5b6e3e3ff938dbafc5680e40c4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\f8ea1a0394a6e1eb0b0a4438c6c16ee9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4e046e88aa55d4a9543514e264107ab6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\21d9411adcb649c4550b23309f6a3872\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\0caf37e2e6e3a27a636778ca3f69fcb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ffd1d48f68733e6fd750e0b28e04c8ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\7c585acd0da47ea5f217347bd9acc2ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\0642270bf1c17ac2a35f63d1edf3db48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\6dec196bcc6ddbb37a7d53922e015166\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a6b57b048f504069d1b869f84d809b94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\9d3f0a57dfadf4ee2b6c5561e063b579\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\d00f4deb765e849c99999375319bbe18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\99caeb873092c2a432a1fffee3dd80ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\f605ec5a8b0be5b6a24dc8a4528556fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\f4f7e3f42e13ae881d9aa944005ac991\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\43f5ebca1f0cf2cd2dc67e8255ed4ed9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\726b142fcfbba1625c63fb85a6d051dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\9935d7f9ecd2d6cbd1f254065afc5d62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\8302d314b66a746099473fa02e7c13a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cbfd49aae962dcb58a9287498624dd4d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\6ce147f5b57ac56ec65a0d91a8af7c62\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ce52b4f6a9d7202d8161c199cd80bcf3\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\dd60763034ce747ba15f82a6adf59e4f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\41990d83fcb25b000edf88db63717bb1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\31f6e51c89674883f42b3c6bf3a65758\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\d9da6f5de1a2fd82bbb9d8d8d5265937\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\02a2c52c4ea81654d321157f906ee626\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\8e40c973ccaef6488b4ad2633da9b213\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\9950a706b10eb2cc82390aba0e1bcff0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\82d408aa4924da5dad5aeb3515f6325e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\b0091781b6554c89e21520114ff1afd3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1ffd1b33ece4ce3a6be35215baf692c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\3e229acb3da480035662857e8971d832\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\371f58d424ab7206449afbfa8201ba53\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\dd60763034ce747ba15f82a6adf59e4f\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\dd60763034ce747ba15f82a6adf59e4f\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:13:22-64
+application
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:15:5-40:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\82fe4c6312830ee6592fa638591b0ebf\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\82fe4c6312830ee6592fa638591b0ebf\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\3068caa719d2d9626b5a0850766fd0b2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\3068caa719d2d9626b5a0850766fd0b2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\520687876c1c1ccd8d7bbf88f04d408e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\520687876c1c1ccd8d7bbf88f04d408e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\48ba0d86252255ca4452d6a89639ab03\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\48ba0d86252255ca4452d6a89639ab03\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\c0710be68a83c3a98682a0c3f74c7adb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\c0710be68a83c3a98682a0c3f74c7adb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4c8ca25a39ee0a0538aaa1b3b97b2457\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4c8ca25a39ee0a0538aaa1b3b97b2457\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\bc798fa080e1fa46461ca90f31de159e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\bc798fa080e1fa46461ca90f31de159e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1aebea4a733648701bf1b48d9d2a71f9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1aebea4a733648701bf1b48d9d2a71f9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e57d8c07152a703f8758438237b0ec0c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e57d8c07152a703f8758438237b0ec0c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\79d1ecd5137763ba510782d0a8ea8cab\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\79d1ecd5137763ba510782d0a8ea8cab\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1518169f983953057c95cc427afee05c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1518169f983953057c95cc427afee05c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\38cd8c5b6e3e3ff938dbafc5680e40c4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\38cd8c5b6e3e3ff938dbafc5680e40c4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4e046e88aa55d4a9543514e264107ab6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4e046e88aa55d4a9543514e264107ab6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cbfd49aae962dcb58a9287498624dd4d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cbfd49aae962dcb58a9287498624dd4d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\41990d83fcb25b000edf88db63717bb1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\41990d83fcb25b000edf88db63717bb1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cbfd49aae962dcb58a9287498624dd4d\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.choosemuse.example.libmuse.PlayYoutubeActivity
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:20:9-66
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:20:19-54
+activity#com.choosemuse.example.libmuse.YoutubeActivity
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:21:19-50
+activity#com.choosemuse.example.libmuse.MainActivity
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.choosemuse.example.libmuse.ConnectMuseActivity
+ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:29:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml:30:13-48
+uses-sdk
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\82fe4c6312830ee6592fa638591b0ebf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\82fe4c6312830ee6592fa638591b0ebf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\3068caa719d2d9626b5a0850766fd0b2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\3068caa719d2d9626b5a0850766fd0b2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\520687876c1c1ccd8d7bbf88f04d408e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\520687876c1c1ccd8d7bbf88f04d408e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\48ba0d86252255ca4452d6a89639ab03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\48ba0d86252255ca4452d6a89639ab03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\c0710be68a83c3a98682a0c3f74c7adb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\c0710be68a83c3a98682a0c3f74c7adb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4c8ca25a39ee0a0538aaa1b3b97b2457\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4c8ca25a39ee0a0538aaa1b3b97b2457\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\bc798fa080e1fa46461ca90f31de159e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\bc798fa080e1fa46461ca90f31de159e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1aebea4a733648701bf1b48d9d2a71f9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1aebea4a733648701bf1b48d9d2a71f9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e57d8c07152a703f8758438237b0ec0c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e57d8c07152a703f8758438237b0ec0c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\79d1ecd5137763ba510782d0a8ea8cab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\79d1ecd5137763ba510782d0a8ea8cab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1518169f983953057c95cc427afee05c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1518169f983953057c95cc427afee05c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\38cd8c5b6e3e3ff938dbafc5680e40c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\38cd8c5b6e3e3ff938dbafc5680e40c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\f8ea1a0394a6e1eb0b0a4438c6c16ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\f8ea1a0394a6e1eb0b0a4438c6c16ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4e046e88aa55d4a9543514e264107ab6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4e046e88aa55d4a9543514e264107ab6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\21d9411adcb649c4550b23309f6a3872\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\21d9411adcb649c4550b23309f6a3872\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\0caf37e2e6e3a27a636778ca3f69fcb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\0caf37e2e6e3a27a636778ca3f69fcb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ffd1d48f68733e6fd750e0b28e04c8ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ffd1d48f68733e6fd750e0b28e04c8ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\7c585acd0da47ea5f217347bd9acc2ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\7c585acd0da47ea5f217347bd9acc2ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\0642270bf1c17ac2a35f63d1edf3db48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\0642270bf1c17ac2a35f63d1edf3db48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\6dec196bcc6ddbb37a7d53922e015166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\6dec196bcc6ddbb37a7d53922e015166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a6b57b048f504069d1b869f84d809b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a6b57b048f504069d1b869f84d809b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\9d3f0a57dfadf4ee2b6c5561e063b579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\9d3f0a57dfadf4ee2b6c5561e063b579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\d00f4deb765e849c99999375319bbe18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\d00f4deb765e849c99999375319bbe18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\99caeb873092c2a432a1fffee3dd80ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\99caeb873092c2a432a1fffee3dd80ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\f605ec5a8b0be5b6a24dc8a4528556fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\f605ec5a8b0be5b6a24dc8a4528556fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\f4f7e3f42e13ae881d9aa944005ac991\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\f4f7e3f42e13ae881d9aa944005ac991\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\43f5ebca1f0cf2cd2dc67e8255ed4ed9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\43f5ebca1f0cf2cd2dc67e8255ed4ed9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\726b142fcfbba1625c63fb85a6d051dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\726b142fcfbba1625c63fb85a6d051dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\9935d7f9ecd2d6cbd1f254065afc5d62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\9935d7f9ecd2d6cbd1f254065afc5d62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\8302d314b66a746099473fa02e7c13a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\8302d314b66a746099473fa02e7c13a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cbfd49aae962dcb58a9287498624dd4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cbfd49aae962dcb58a9287498624dd4d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\6ce147f5b57ac56ec65a0d91a8af7c62\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\6ce147f5b57ac56ec65a0d91a8af7c62\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ce52b4f6a9d7202d8161c199cd80bcf3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ce52b4f6a9d7202d8161c199cd80bcf3\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\dd60763034ce747ba15f82a6adf59e4f\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\dd60763034ce747ba15f82a6adf59e4f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\41990d83fcb25b000edf88db63717bb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\41990d83fcb25b000edf88db63717bb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\31f6e51c89674883f42b3c6bf3a65758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\31f6e51c89674883f42b3c6bf3a65758\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\d9da6f5de1a2fd82bbb9d8d8d5265937\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\d9da6f5de1a2fd82bbb9d8d8d5265937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\02a2c52c4ea81654d321157f906ee626\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\02a2c52c4ea81654d321157f906ee626\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\8e40c973ccaef6488b4ad2633da9b213\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\8e40c973ccaef6488b4ad2633da9b213\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\9950a706b10eb2cc82390aba0e1bcff0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\9950a706b10eb2cc82390aba0e1bcff0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\82d408aa4924da5dad5aeb3515f6325e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\82d408aa4924da5dad5aeb3515f6325e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\b0091781b6554c89e21520114ff1afd3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\b0091781b6554c89e21520114ff1afd3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1ffd1b33ece4ce3a6be35215baf692c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\1ffd1b33ece4ce3a6be35215baf692c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\3e229acb3da480035662857e8971d832\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\3e229acb3da480035662857e8971d832\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\371f58d424ab7206449afbfa8201ba53\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\371f58d424ab7206449afbfa8201ba53\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kruko\Downloads\wetransfer-8f84f0\TestLibMuseAndroid-master\TestLibMuseAndroid-master\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:29:18-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\4a1982e3d33085c1386d8b2d672b21f0\AndroidManifest.xml:31:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\ac9f78e9f54f6a30f9bcbb8d3d5b1b95\AndroidManifest.xml:21:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\54e0c4fbdfbb8259c3f5d929853ba9fe\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\a52180413bd13ba08823f95047858ecb\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\c0710be68a83c3a98682a0c3f74c7adb\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\c0710be68a83c3a98682a0c3f74c7adb\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\c0710be68a83c3a98682a0c3f74c7adb\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\c0710be68a83c3a98682a0c3f74c7adb\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.1.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\e6079aece7398b463c02827b4962d7ee\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\5fe78fa3179d245f694209d8494c4929\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\cd5889698fa1134308122952c54f1a6d\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\881306282cf56baea2acba17c726e282\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\38cd8c5b6e3e3ff938dbafc5680e40c4\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\38cd8c5b6e3e3ff938dbafc5680e40c4\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\kruko\.gradle\caches\transforms-2\files-2.1\38cd8c5b6e3e3ff938dbafc5680e40c4\AndroidManifest.xml:24:13-58

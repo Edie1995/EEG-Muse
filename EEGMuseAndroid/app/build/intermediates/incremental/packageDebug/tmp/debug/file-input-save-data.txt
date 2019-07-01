@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Tue Jun 18 01:04:53 CEST 2019
+1.base=C\:\\Users\\kruko\\Downloads\\wetransfer-8f84f0\\TestLibMuseAndroid-master\\TestLibMuseAndroid-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\kruko\\Downloads\\wetransfer-8f84f0\\TestLibMuseAndroid-master\\TestLibMuseAndroid-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+3.set=DEX
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=DEX
+0.path=lib/armeabi-v7a/libmuse_android.so
+3.base=C\:\\Users\\kruko\\Downloads\\wetransfer-8f84f0\\TestLibMuseAndroid-master\\TestLibMuseAndroid-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.set=NATIVE_RESOURCE
+0.base=C\:\\Users\\kruko\\Downloads\\wetransfer-8f84f0\\TestLibMuseAndroid-master\\TestLibMuseAndroid-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.baseType=DIRECTORY
+1.path=classes2.dex

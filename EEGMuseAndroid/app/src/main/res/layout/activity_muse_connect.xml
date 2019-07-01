@@ -1,0 +1,288 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@color/pinkBack">
+
+	<Spinner
+		android:id="@+id/muses_spinner"
+		android:layout_width="match_parent"
+		android:layout_height="52dp"
+		android:background="@color/pinktTxt"
+		android:scrollbarStyle="outsideInset" />
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="68dp"
+		android:orientation="horizontal">
+
+		<Button
+			android:id="@+id/refresh"
+			android:layout_width="107dp"
+			android:layout_height="47dp"
+			android:text="Odswiez"
+			android:background="@drawable/cloud_pink"
+			android:fontFamily="casual"
+			android:textColor="@color/pinkFontBtn"
+			android:textSize="18sp"
+			android:textStyle="bold|italic" />
+
+		<Button
+			android:id="@+id/connect"
+			android:layout_width="109dp"
+			android:layout_height="47dp"
+			android:background="@drawable/cloud_pink"
+			android:fontFamily="casual"
+			android:text="Polacz"
+			android:textColor="@color/pinkFontBtn"
+			android:textStyle="bold|italic" />
+
+		<Button
+			android:id="@+id/disconnect"
+			android:layout_width="106dp"
+			android:layout_height="47dp"
+			android:background="@drawable/cloud_pink"
+			android:fontFamily="casual"
+			android:text="Rozlacz"
+			android:textColor="@color/pinkFontBtn"
+			android:textStyle="bold|italic" />
+
+
+	</LinearLayout>
+
+
+	<TextView
+		android:id="@+id/conTxt"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:fontFamily="casual"
+		android:text="Status polaczenia:"
+		android:textAlignment="viewStart"
+		android:textColor="@color/white"
+		android:textSize="18sp"
+		android:textStyle="bold" />
+
+	<TextView
+		android:id="@+id/con_status"
+		android:layout_width="match_parent"
+		android:layout_height="52dp"
+		android:fontFamily="casual"
+		android:lineSpacingExtra="18sp"
+		android:text="Nieznane"
+		android:textColor="@color/white"
+		android:textSize="18sp"
+		android:textStyle="bold|italic" />
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="80dp"
+		tools:layout_editor_absoluteY="202dp">
+
+        <Button
+            android:id="@+id/wyniki"
+            android:layout_width="142dp"
+            android:layout_height="56dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/cloud_pink"
+            android:fontFamily="casual"
+            android:onClick="museToMenuBack"
+            android:text="Wyniki"
+            android:textColor="@color/pinkFontBtn"
+            android:textSize="18sp"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="8dp" />
+
+		<Button
+			android:id="@+id/pause"
+			android:layout_width="192dp"
+			android:layout_height="58dp"
+			android:layout_alignParentTop="true"
+			android:layout_alignParentEnd="true"
+			android:layout_marginStart="14dp"
+			android:layout_marginTop="14dp"
+			android:layout_marginEnd="53dp"
+			android:layout_toEndOf="@+id/wyniki"
+			android:background="@drawable/cloud_pink"
+			android:fontFamily="casual"
+			android:text="Zakoncz"
+			android:textColor="@color/pinkFontBtn"
+			android:textSize="18sp"
+			android:textStyle="bold|italic"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintHorizontal_bias="0.498"
+			app:layout_constraintStart_toStartOf="parent" />
+	</RelativeLayout>
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="100dp"
+		tools:layout_editor_absoluteY="202dp"
+		>
+
+		<Button
+			android:id="@+id/youtubeBtn"
+			android:layout_width="141dp"
+			android:layout_height="59dp"
+			android:layout_centerInParent="true"
+			android:background="@drawable/cloud_pink"
+			android:fontFamily="casual"
+			android:onClick="museToMenuBack"
+			android:text="Bajki"
+			android:textColor="@color/pinkFontBtn"
+			android:textSize="18sp"
+			android:textStyle="bold|italic"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintHorizontal_bias="0.498"
+			app:layout_constraintStart_toStartOf="parent" />
+	</RelativeLayout>
+
+	<TextView
+		android:id="@+id/eegTxt"
+		android:layout_width="match_parent"
+		android:layout_height="31dp"
+		android:fontFamily="casual"
+		android:text="Dane EEG:"
+		android:textColor="@color/white"
+		android:textSize="18sp"
+		android:textStyle="bold" />
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="40dp"
+		android:orientation="horizontal">
+
+		<TextView
+			android:id="@+id/eeg_tp9"
+			android:layout_width="match_parent"
+			android:layout_height="45dp"
+			android:layout_weight="1"
+			android:fontFamily="casual"
+			android:text="@string/init_val"
+			android:textColor="@color/white"
+			android:textSize="16sp"
+			android:textStyle="bold|italic" />
+
+		<TextView
+			android:id="@+id/eeg_af7"
+			android:layout_width="match_parent"
+			android:layout_height="42dp"
+			android:layout_weight="1"
+			android:fontFamily="casual"
+			android:text="@string/init_val"
+			android:textColor="@color/white"
+			android:textSize="16sp"
+			android:textStyle="bold|italic" />
+
+		<TextView
+			android:id="@+id/eeg_af8"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:fontFamily="casual"
+			android:text="@string/init_val"
+			android:textColor="@color/white"
+			android:textSize="16sp"
+			android:textStyle="bold|italic" />
+
+		<TextView
+			android:id="@+id/eeg_tp10"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:fontFamily="casual"
+			android:text="@string/init_val"
+			android:textColor="@color/white"
+			android:textSize="16sp"
+			android:textStyle="bold|italic" />
+	</LinearLayout>
+
+	<TextView
+		android:id="@+id/alphaTxt"
+		android:layout_width="match_parent"
+		android:layout_height="47dp"
+		android:fontFamily="casual"
+		android:text="Wspolczynniki alfa:"
+		android:textColor="@color/white"
+		android:textSize="18sp"
+		android:textStyle="bold" />
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="39dp"
+		android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/alpha1"
+            android:layout_width="62dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:fontFamily="casual"
+            android:text="        Ucho L"
+            android:textAlignment="textStart"
+            android:textColor="@color/white"
+            android:textStyle="bold|italic" />
+
+		<TextView
+			android:id="@+id/alpha2"
+			android:layout_width="wrap_content"
+			android:layout_height="35dp"
+			android:layout_weight="1"
+			android:fontFamily="casual"
+			android:text="Czoło L"
+			android:textAlignment="center"
+			android:textColor="@color/white"
+			android:textStyle="bold|italic" />
+
+		<TextView
+			android:id="@+id/alpha3"
+			android:layout_width="wrap_content"
+			android:layout_height="35dp"
+			android:layout_weight="1"
+			android:fontFamily="casual"
+			android:text="@string/czo_o_p"
+			android:textAlignment="center"
+			android:textColor="@color/white"
+			android:textStyle="bold|italic" />
+
+		<TextView
+			android:id="@+id/alpha4"
+			android:layout_width="wrap_content"
+			android:layout_height="35dp"
+			android:layout_weight="1"
+			android:fontFamily="casual"
+			android:text="Ucho P"
+			android:textAlignment="center"
+			android:textColor="@color/white"
+			android:textStyle="bold|italic" />
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content">
+
+		<ImageView
+			android:id="@+id/lamaL"
+			android:layout_width="180dp"
+			android:layout_height="match_parent"
+			android:src="@drawable/llama_left"
+			android:contentDescription="TODO" />
+
+		<ImageView
+			android:id="@+id/lamaR"
+			android:layout_width="180dp"
+			android:layout_height="match_parent"
+			android:src="@drawable/llama_right"
+			android:contentDescription="TODO" />
+
+	</LinearLayout>
+
+
+</LinearLayout>

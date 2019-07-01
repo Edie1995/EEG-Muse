@@ -1,0 +1,10 @@
+#Tue Jun 18 14:39:13 CEST 2019
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\kruko\\Downloads\\wetransfer-8f84f0\\TestLibMuseAndroid-master\\TestLibMuseAndroid-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.1=C\:\\Users\\kruko\\Downloads\\wetransfer-8f84f0\\TestLibMuseAndroid-master\\TestLibMuseAndroid-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+base.0=C\:\\Users\\kruko\\Downloads\\wetransfer-8f84f0\\TestLibMuseAndroid-master\\TestLibMuseAndroid-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out

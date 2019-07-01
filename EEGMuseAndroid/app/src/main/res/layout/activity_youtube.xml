@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".YoutubeActivity"
+    android:background="@drawable/connect_back_llama">
+
+    <Button
+        android:id="@+id/playFilmBtn"
+        android:layout_width="149dp"
+        android:layout_height="89dp"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/cloud_pink"
+        android:fontFamily="casual"
+        android:lineSpacingExtra="14sp"
+        android:text="Otwórz"
+        android:textColor="@color/pinkFontBtn"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/urlTxt" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="308dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="188dp"
+        android:background="@color/pinkBack"
+        android:fontFamily="casual"
+        android:text="Wklej adres filmu"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/urlTxt"
+        android:layout_width="339dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="52dp"
+        android:background="@color/pinkBack"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="Swinka Peppa"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/white"
+        android:textColorHint="@color/white"
+        android:textColorLink="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+</android.support.constraint.ConstraintLayout>

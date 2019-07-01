@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "933613236593",
+    "firebase_url": "https://museandroid-84607.firebaseio.com",
+    "project_id": "museandroid-84607",
+    "storage_bucket": "museandroid-84607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933613236593:android:2cac7cfa4841a64e",
+        "android_client_info": {
+          "package_name": "com.choosemuse.example.libmuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933613236593-uj65ac8emt02qecmcv3nnm1ncil2hh4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.choosemuse.example.libmuse",
+            "certificate_hash": "bb2dcc2e74ac84a39f73299ae279187efed74e60"
+          }
+        },
+        {
+          "client_id": "933613236593-ndv7mhqv8hnuupjmcgu2f6ingqhdcp76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYoSH0TxM0ajl5QSILvElSqv__2cs86Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933613236593-ndv7mhqv8hnuupjmcgu2f6ingqhdcp76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

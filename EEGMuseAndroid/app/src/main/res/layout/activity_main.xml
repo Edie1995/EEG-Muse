@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/connect_back_llama"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/museBtn"
+        style="@android:style/Widget.Material.Button.Borderless.Small"
+        android:layout_width="160dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="8dp"
+        android:enabled="false"
+        android:text="Zacznij zabawe"
+        android:textAllCaps="false"
+        android:background="@drawable/cloud_pink"
+        android:fontFamily="casual"
+        android:lineSpacingExtra="14sp"
+        android:textColor="@color/pinkFontBtn"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameTxt" />
+
+    <TextView
+        android:id="@+id/helloTxt"
+        android:layout_width="288dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="164dp"
+        android:layout_marginEnd="8dp"
+        android:text="Podaj swoje imie"
+        android:background="@color/pinkBack"
+        android:fontFamily="casual"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/nameTxt"
+        android:layout_width="245dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="108dp"
+        android:ems="10"
+        android:hint="Imie"
+        android:inputType="textPersonName"
+        android:lineSpacingExtra="36sp"
+        android:fontFamily="casual"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/white"
+        android:textColorHint="@color/white"
+        android:textColorLink="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/helloTxt"
+        android:background="@color/pinkBack"/>
+
+</android.support.constraint.ConstraintLayout>
